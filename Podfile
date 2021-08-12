@@ -17,6 +17,5 @@ target 'GeeksforGeeks' do
   end
 
   pod 'Alamofire', '~> 4.0' # last version is 5.0.2
- pod 'MBProgressHUD'
- pod 'SDWebImage'
+  pod 'SDWebImage'
 end
