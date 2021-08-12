@@ -1,0 +1,6 @@
+framework module Pods_GeeksforGeeks_GeeksforGeeksUITests {
+  umbrella header "Pods-GeeksforGeeks-GeeksforGeeksUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
